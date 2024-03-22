@@ -1,0 +1,8 @@
+{
+  "tournament_name": "TORNEO PRUEBA",
+  "start_date": "2024-05-01",
+  "end_date": "20240529",
+  "start_time": "08:30:00Z",
+  "end_time": "180000Z",
+  "participants": ["equipo1","equipo2","equipo3","equipo4","equipo5","equipo6","equipo7","equipo8","equipo9","equipo10"]
+}
